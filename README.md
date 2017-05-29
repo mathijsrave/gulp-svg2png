@@ -2,6 +2,8 @@
 
 > A gulp plugin for converting SVGs to PNGs.
 
+**This is just an update so the npm package is up to date with the repo. This isn't my work, all credits go to akoenig!**
+
 
 ## Usage
 
