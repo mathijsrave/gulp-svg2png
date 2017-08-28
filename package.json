@@ -1,6 +1,6 @@
 {
 	"name": "gulp-svg2png-node7fix",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "A gulp plugin for converting SVGs to PNGs with a small update for Node.JS 7.x",
 	"author": "André König <andre.koenig@posteo.de>",
 	"license": "MIT",
